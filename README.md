@@ -3,6 +3,7 @@
   ###Required
   
   Objective-c
+  
   Sqlite3
   
 	pod 'FMDB', '2.6'

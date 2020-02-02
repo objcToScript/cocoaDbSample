@@ -3,7 +3,7 @@
 
 static NSMutableArray*db_testTableArray;
 
-static NSString*dbFilePath_static = @"/Users/ita/COCOCA_2/mantleSample/mantleSample/mantleSample.db3";
+static NSString*dbFilePath_static = @"";
 
 @implementation ViewController
 

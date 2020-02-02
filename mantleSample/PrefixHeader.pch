@@ -1,0 +1,27 @@
+
+#ifndef PrefixHeader_txt
+#define PrefixHeader_txt
+
+
+
+#import <objc/runtime.h>
+
+#import <FMDB/FMDB.h>
+
+#import <Mantle/Mantle.h>
+
+#import <Mantle/EXTRuntimeExtensions.h>
+#import <Mantle/EXTScope.h>
+
+
+#import "MTLReflection.h"
+
+#import "extension.h"
+
+#import "clsFMDB.h"
+
+#import "model_mantleSample.h"
+
+
+
+#endif /* PrefixHeader_txt */

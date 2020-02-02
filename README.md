@@ -1,8 +1,9 @@
 # cocoaDbSample
 
   Required
-
-  MacOsX Cocoa
+  
+  Objective-c
+  Cocoa App
   Sqlite3
   
 	pod 'FMDB', '2.6'
